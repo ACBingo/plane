@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+<key>play</key>
+<string>开始游戏</string>
+<key>score</key>
+<string>得分:</string>
+<key>alive</key>
+<string>生命:</string>
+<key>Zere</key>
+<string>您已超神</string>
+<key>One</key>
+<string>一级上将</string>
+<key>Two</key>
+<string>上将</string>
+<key>Three</key>
+<string>中将</string>
+<key>Four</key>
+<string>少将</string>
+<key>Five</key>
+<string>上校</string>
+<key>Six</key>
+<string>中校</string>
+<key>Seven</key>
+<string>少校</string>
+<key>Eight</key>
+<string>上尉</string>
+<key>Nine</key>
+<string>中尉</string>
+<key>Ten</key>
+<string>少尉</string>
+<key>Eleven</key>
+<string>列兵</string>
+<key>rankNum</key>
+<string>排名</string>
+<key>rankScore</key>
+<string>分数</string>
+<key>AboutMe</key>
+<string>作者: ACBingo</string>
+<key>QQ</key>
+<string>email: tfuty@qq.com</string>
+<key>Others</key>
+<string>    感谢您对这款游戏的关注，如何您在玩儿游戏过程中遇到什么问题，或是有什么改进意见，请及时与我联系。</string>
+</dict>
